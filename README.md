@@ -4,13 +4,14 @@ A handpicked list of awesome remote-first companies offering highly competitive 
 The goal of this repository is to connect well-established companies with top senior talent. Being part of this list is free of charge and will never ask for money in return for publication. If you're interested in sponsoring this effort or seeking end-to-end consulting services, take a look at [my website](https://www.martinezaguero.com).
 
 ### The 100k Checklist
-You are part of the 100k club if your company is:
+What's an Awesome 100k Company?
 
-- [ ] 100k+ salary
-- [ ] Remote first
-- [ ] PTO's and sick days
-- [ ] Bonuses
-- [ ] Mental and health care
+🌐 Works with talent from Latin America.
+💰 Offers $100k+ total compensation.
+🏡 Remote-first.
+⏳ Provides PTOs and sick days.
+😍 Offers bonuses.
+💙 Includes mental and health care.
 
 ### Companies
 
