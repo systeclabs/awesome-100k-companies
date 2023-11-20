@@ -13,7 +13,7 @@ What's an Awesome 100k Company?
 - [ ] Offers bonuses.
 - [ ] Includes mental and health care.
 
-If you are one [send your request](https://github.com/systeclabs/awesome-100k-companies/issues/new/choose) by creating an issue or use our [LinkedIn page](https://www.linkedin.com/company/100kgroup/).
+To add a company [send a request](https://github.com/systeclabs/awesome-100k-companies/issues/new/choose) by creating an issue or use our [LinkedIn page](https://www.linkedin.com/company/100kgroup/).
 
 ### Companies
 
