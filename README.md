@@ -6,12 +6,12 @@ The goal of this repository is to connect well-established companies with top se
 ### The 100k Checklist
 What's an Awesome 100k Company?
 
-🌐 Works with talent from Latin America.
-💰 Offers $100k+ total compensation.
-🏡 Remote-first.
-⏳ Provides PTOs and sick days.
-😍 Offers bonuses.
-💙 Includes mental and health care.
+- [ ] Works with talent from Latin America.
+- [ ] Offers $100k+ total compensation.
+- [ ] Remote-first.
+- [ ] Provides PTOs and sick days.
+- [ ] Offers bonuses.
+- [ ] Includes mental and health care.
 
 ### Companies
 
