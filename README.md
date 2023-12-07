@@ -20,5 +20,6 @@ To add a company [send a request](https://github.com/systeclabs/awesome-100k-com
 | Name | Location | Business | Tech Stack | Roles | LatAm-Wide | Salary |
 | :--- | :------- | :-------| :----- | :-------- | :- | :- |
 [Netlify](https://www.netlify.com/) | San Francisco, California | Netlify is the modern development platform for Enterprises to realize the speed, agility and performance of a scalable, composable web architecture. | Node.js, GraphQL | [Careers](https://www.netlify.com/careers/#perfect-job)  | :white_check_mark: | :fire:
+[Proton.ai](https://www.proton.ai/) | Cambridge, Massachusetts | Proton is the only AI-powered sales platform purpose-built for distributors | Python, ML, Vue, Docker| [Careers](https://boards.greenhouse.io/protonai/jobs/5035195004?t=42388b0f4us)  | :white_check_mark: | :fire:
 [Lorem](https://www.systec.dev) | United States | Empowering financial wellness through accessible, innovative solutions for all | Node.js, React, AWS | [Careers](https://github.com/systeclabs)  | :white_check_mark: | :fire:
 
